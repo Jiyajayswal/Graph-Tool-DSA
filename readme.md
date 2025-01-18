@@ -3,8 +3,6 @@
 ## Student Information 
 Name : Jiya Jayswal
 
-Student Number : 1310124
-
 ## Assignment Overview
 What is the assignment about?  
 The assignment involves creating and implementing functions for a graph data structure. The program reads a graph from a file and provides several operations to interact with the graph, such as adding edges, displaying the adjacency list, and other tasks related to graph representation and manipulation. This helps in understanding core concepts of data structures and algorithms involving graphs.
