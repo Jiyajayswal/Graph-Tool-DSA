@@ -14,10 +14,3 @@ The assignment involves creating and implementing functions for a graph data str
 **graph.h**: This header file contains the declarations for the functions and data structures used in graph_functions.c.
 
 
-## Resources 
-Did you use any resources (for example book, notes etc) in this assignment?
-Week 10 and Week 11 lecture notes 
-
-## Implementation
-Is the assignment complete? If not, mention what part of the assignment is missing or incomplete.
-The assignment is complete.
